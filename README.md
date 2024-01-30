@@ -1,15 +1,4 @@
 ## Python Practice Programs(DAP lab)
-
-1. [Basic programs](python_basic_programs.ipynb)
-2. [List programs](list_programes.ipynb)
-3. [Array programs](array_programs.ipynb)
-4. [Dictionary programs](Dictionary.ipynb)
-5. [Tuple programs](Tuple.ipynb)
-6. [List programs](list_programes.ipynb)
-7. [Matrix programs](matrix.ipnyb)
-
-----------------------------------------------------------------------------------------------
-
 ## How to Contribute
 
 Your contributions to this repository are highly welcome! Follow the steps below to contribute:
